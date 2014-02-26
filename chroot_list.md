@@ -1,5 +1,6 @@
 <!-- --- tag:  云主机 linux ftp 进阶  -->
 
+<!-- --- title: 如何设置vsftpd服务中的chroot白名单功能？ -->
 #如何设置vsftpd服务中的chroot白名单功能？
 
 通过[如何把vsftpd的系统账户登录后chroot在自己家目录](http://kb.51hosting.com/kb/how-to-chroot.md)这篇教程，我们了解到

@@ -1,4 +1,5 @@
 <!-- --- tag: cpanel password -->
+<!-- --- title: 如何更改cPanel密码，更换语言 -->
 #如何更改cPanel密码，更换语言
 
 ###更改cPanel密码

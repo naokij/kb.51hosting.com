@@ -1,6 +1,7 @@
 <!-- --- tag:  云主机 vps webshell -->
 
 
+<!-- --- title: 如何用通过浏览器管理linux服务器（centos5.9 64）<br> -->
 #如何用通过浏览器管理linux服务器（centos5.9 64）<br>
 
 说明：SSH Webshell是一个具有HTTP在线管理界面的SSH服务。<br>

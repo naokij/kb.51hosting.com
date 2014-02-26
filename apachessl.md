@@ -1,4 +1,5 @@
 <!-- --- tag:  云主机 vps linux apache ssl 进阶  -->
+<!-- --- title:  如何配置Apache SSL(centos64 5.9 版本) -->
 # 如何配置Apache SSL(centos64 5.9 版本)
 
 **说明**：Internet的线路侦听无处不在，明文传输的数据一不留神就可能被窃取。而Apache的SSL加密连接可协助浏览者更加安全可靠的传输数据。普通的HTTP协议URL是以 http:// 开头，而SSL加密协议则是以 https:// 开头。本章节将介绍CentOS系统下通过仓库（yum）配置apache中SSL加密模块的方法。

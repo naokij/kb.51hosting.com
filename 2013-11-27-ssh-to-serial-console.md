@@ -1,5 +1,6 @@
 <!-- --- tag: 云主机 console ssh -->
 
+<!-- --- title: 如何利用SSH访问Linux云主机的Serial Console -->
 #如何利用SSH访问Linux云主机的Serial Console
 
 当我们在无法正常使用SSH的时候，Serial Console功能可以很好的帮助我们登录到服务器进行管理。但由于最近java的更新导致我们linux云主机的Serial Console功能无法使用。下面给大家提供一种解决方法，通过SSH客户端连接到Serial Console界面。

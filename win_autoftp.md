@@ -1,4 +1,5 @@
 <!-- --- tag:  windows 云主机 进阶 ftp -->
+<!-- --- title: 如何在window下自动登录linux的ftp服务器并下载文件？ -->
 #如何在window下自动登录linux的ftp服务器并下载文件？
 
 步骤一：首先确保在linux服务器上有登录的账号，这里演示比如是testniko这个账号，我先新建个并设置密码test

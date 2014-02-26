@@ -1,4 +1,5 @@
 <!-- --- tag:  云主机 独立服务器 -->
+<!-- --- title: 如何改变linux 终端显示颜色 -->
 #如何改变linux 终端显示颜色
 
 在终端输入echo -e "\e[1;31m this is a red text \e[0m"

@@ -1,5 +1,6 @@
 <!-- --- tag: 独立服务器 云主机 LNMP -->
 
+<!-- --- title: 如何一键安装LNMP包 -->
 #如何一键安装LNMP包
 
 也许大家对LAMP比较熟悉，LAMP代表Linux下Apache、MySQL、PHP这种网站服务器架构；同上LNMP代表的就是Linux下Nginx、MySQL、PHP这种网站服务器架构。下面给大家介绍LNMP包的一键安装方法。

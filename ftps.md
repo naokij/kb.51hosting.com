@@ -1,5 +1,6 @@
 <!-- --- tag:  linux centos 云主机  ftp 进阶  -->
 
+<!-- --- title: 如何设置FTPS？centos5.9/6.3 64位 -->
 #如何设置FTPS？centos5.9/6.3 64位
 
 **使用情景：**由于ftp是个不可靠的传输协议所以可以搭建ftp+ssl方式来加密

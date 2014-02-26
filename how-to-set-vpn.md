@@ -1,4 +1,5 @@
 <!-- --- tag: 云主机 独立服务器 CentOS pptp vpn -->
+<!-- --- title:  在CentOS5.x上利用pptpd配置vpn服务   -->
 # 在CentOS5.x上利用pptpd配置vpn服务  
 
 购买了Linux系统云主机的客户可以通过在该系统上利用pptpd来架设vpn服务，这样能方便我们在访问一些被墙的国外网站时翻墙，下面我们来看一下配置过程：

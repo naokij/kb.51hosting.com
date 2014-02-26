@@ -1,5 +1,6 @@
 <!-- --- tag: 独立服务器 流量 -->
 
+<!-- --- title: 如何查看独立服务器的流量图 -->
 #如何查看独立服务器的流量图
 
 * 1.登陆  [客户中心](http://portal.51hosting.com/clientarea.php)

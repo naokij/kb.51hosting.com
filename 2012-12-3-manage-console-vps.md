@@ -1,5 +1,6 @@
 <!-- --- tag: 云主机 console -->
 
+<!-- --- title: 如何使用Serial Console登录Linux云主机? -->
 #如何使用Serial Console登录Linux云主机?
 
 

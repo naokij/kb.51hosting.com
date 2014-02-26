@@ -1,5 +1,6 @@
 
 <!-- --- tag: cpanel -->
+<!-- --- title: 为什么我改了下cPanel的密码后,FTP就不能登陆了? -->
 #为什么我改了下cPanel的密码后,FTP就不能登陆了?
 
 cPanel的密码改变后,FTP的密码跟着改变. 因为他们是同步的.cPanel空间的后台登录密码和FTP登录密码是一致
