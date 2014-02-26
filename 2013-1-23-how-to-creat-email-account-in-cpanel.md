@@ -4,7 +4,7 @@
 
 #如何在cPanel创建电子邮件帐户
 
-*1. 首先在浏览器的地址栏键入您的cPanel服务器所在的IP和端口，如：http://64.78.xxx.xx:20xx/，跳转到如下页面之后，输入您的用户名和密码，确定即可直接登入cPanel
+*1. 首先在浏览器的地址栏键入您的cPanel服务器所在的IP和端口，如：http://64.78.xxx.xx:20xx/ ，跳转到如下页面之后，输入您的用户名和密码，确定即可直接登入cPanel
 
 ![](http://ww2.sinaimg.cn/large/a74ecc4cjw1e13awyq77wj.jpg)
  
