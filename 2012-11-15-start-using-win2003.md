@@ -1,4 +1,4 @@
-<!-- --- tags: faq win2003 rdp 安全 -->
+<!-- --- tag: faq win2003 rdp 安全 -->
 <!-- --- title: 开始使用Windows 2003系统 -->
 #开始使用Windows 2003系统
 
