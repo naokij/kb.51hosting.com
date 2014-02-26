@@ -1,6 +1,4 @@
----
-{{tag>cpanel FTP}}
----
+<!-- --- tag: cpanel FTP -->
 #如何在cPanel创建FTP帐号?
 
 ###概述

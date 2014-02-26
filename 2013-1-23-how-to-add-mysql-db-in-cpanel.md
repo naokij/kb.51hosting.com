@@ -1,6 +1,4 @@
----
-{{tag>cpanel 数据库}}
----
+<!-- --- tag: cpanel 数据库 -->
 #如何在cPanel添加MySQL数据库
 
 ###登录cPanel主界面

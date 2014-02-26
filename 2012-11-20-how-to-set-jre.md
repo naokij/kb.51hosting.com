@@ -1,6 +1,4 @@
----
-{{tag>faq vnc java 云主机}}
----
+<!-- --- tag: faq vnc java 云主机 -->
 
 #如何用设置新版本的jre使其能打开vnc
 

@@ -1,6 +1,4 @@
----
-{{tag>cpanel 域名}}
----
+<!-- --- tag: cpanel 域名 -->
 #如何在cPanel面板中绑定域名
 
 Parked domains指向您在我们这里已存在的站点的根目录，他允许您将额外的域名指向您已存在的域名。例如domain.com，domain.net以及domain.org可以指向同一个地方（即同一个站点可以有几个不同的域名）。

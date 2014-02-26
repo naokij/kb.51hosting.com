@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps linux}}
----
+<!-- --- tag:  云主机 vps linux -->
 #如何解决SecureCRT出现中文乱码?
 
 

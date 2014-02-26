@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps ddos }}
----
+<!-- --- tag:  云主机 vps ddos  -->
 
 
 #在vps上部署一个简单的防御ddos的shell脚本（转载）

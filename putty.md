@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps putty}}
----
+<!-- --- tag:  云主机 vps putty -->
 
 
 #如何解决putty的中文乱码问题？

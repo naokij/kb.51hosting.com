@@ -1,6 +1,4 @@
----
-{{tag>云主机 console ssh}}
----
+<!-- --- tag: 云主机 console ssh -->
 
 #如何利用SSH访问Linux云主机的Serial Console
 

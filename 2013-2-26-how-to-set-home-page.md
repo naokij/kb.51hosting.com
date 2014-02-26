@@ -1,7 +1,4 @@
---- 
-
-{{tag>plesk index 默认首页}}
----
+<!-- --- tag: plesk index 默认首页 -->
 #如何设置Plesk主机默认首页
 
 ###设置默认首页

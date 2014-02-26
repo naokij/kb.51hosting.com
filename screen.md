@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps screen 进阶 }}
----
+<!-- --- tag:  云主机 vps screen 进阶  -->
 
 
 #如何在linux下利用screen执行后台任务？

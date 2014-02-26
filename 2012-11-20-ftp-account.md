@@ -1,6 +1,4 @@
----
-{{tag>plesk ftp 虚拟主机}}
----
+<!-- --- tag: plesk ftp 虚拟主机 -->
 #Plesk 中如何创建，编辑，删除FTP账户
 ###创建FTP账户
 

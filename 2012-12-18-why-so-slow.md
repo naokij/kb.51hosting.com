@@ -1,6 +1,4 @@
----
-{{tag>plesk cpanel faq}}
----
+<!-- --- tag: plesk cpanel faq -->
 #为什么我FTP上传文件到美国服务器速度这么慢？
 
 上传速度慢的主要是因为网站文件个数比较多。

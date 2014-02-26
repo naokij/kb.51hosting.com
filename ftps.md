@@ -1,6 +1,4 @@
----
-{{tag> linux centos 云主机  ftp 进阶 }}
----
+<!-- --- tag:  linux centos 云主机  ftp 进阶  -->
 
 #如何设置FTPS？centos5.9/6.3 64位
 

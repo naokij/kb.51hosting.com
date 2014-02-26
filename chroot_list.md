@@ -1,6 +1,4 @@
----
-{{tag> 云主机 linux ftp 进阶 }}
----
+<!-- --- tag:  云主机 linux ftp 进阶  -->
 
 #如何设置vsftpd服务中的chroot白名单功能？
 

@@ -1,6 +1,4 @@
----
-{{tag>cpanel 邮件}}
----
+<!-- --- tag: cpanel 邮件 -->
 
 #如何在cPanel创建电子邮件帐户
 

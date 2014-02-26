@@ -1,6 +1,4 @@
----
-{{tag>cpanel}}
----
+<!-- --- tag: cpanel -->
 
 #如何登录或者退出cPanel
 

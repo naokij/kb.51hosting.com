@@ -1,6 +1,4 @@
----
-{{tag>独立服务器 云主机 backup dropbox}}
----
+<!-- --- tag: 独立服务器 云主机 backup dropbox -->
 #利用Dropbox备份Windows系统上的文件
 
 <br />

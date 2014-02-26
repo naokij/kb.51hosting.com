@@ -1,6 +1,4 @@
----
-{{tag>faq plesk cpanel ftp 虚拟主机}}
----
+<!-- --- tag: faq plesk cpanel ftp 虚拟主机 -->
 #FTP工具在哪里下载？
 有很多FTP工具可供选择，下面是五域通达的推荐：
 

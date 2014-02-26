@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps nfs }}
----
+<!-- --- tag:  云主机 vps nfs  -->
 
 
 #如何快速搭建NFS共享服务器centos5.9/centos6.3 64位

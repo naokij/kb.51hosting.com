@@ -1,6 +1,4 @@
----
-{{tag>cpanel 域名}}
----
+<!-- --- tag: cpanel 域名 -->
 
 #如何在cPanel面板中设置附加域
 

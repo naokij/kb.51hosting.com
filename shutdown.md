@@ -1,6 +1,4 @@
----
-{{tag> 云主机 vps shutdown }}
----
+<!-- --- tag:  云主机 vps shutdown  -->
 
 
 #如何利用Shutdown命令定时关机？

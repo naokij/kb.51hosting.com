@@ -1,6 +1,4 @@
----
-{{tag>云主机 centos chroot ftp }}
----
+<!-- --- tag: 云主机 centos chroot ftp  -->
 
 #如何把vsftpd的系统账户登录后chroot在自己家目录
 

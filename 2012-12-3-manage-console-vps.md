@@ -1,6 +1,4 @@
----
-{{tag>云主机 console}}
----
+<!-- --- tag: 云主机 console -->
 
 #如何使用Serial Console登录Linux云主机?
 
