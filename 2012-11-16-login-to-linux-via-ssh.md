@@ -1,4 +1,4 @@
-<!-- --- tag: faq ssh putty xterm 云主机 独立服务器 -->->
+<!-- --- tag: faq ssh putty xterm 云主机 独立服务器 -->
 <!-- --- title: 利用SSH登陆 Linux 系统 -->
 #利用SSH登陆 Linux 系统
 
