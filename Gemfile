@@ -1,0 +1,1 @@
+gem 'gollum', :git => 'https://github.com/naokij/gollum.git'
