@@ -4,7 +4,6 @@
 
 当您成为五域通达的代理商，或者五域通达推出各项促销优惠的时候， 我们都会以发放优惠码的形式给予客户优惠折扣。优惠码用于客户订购产品的时候。以下是优惠码的使用：
 
-
 *   1.登陆  [客户中心](http://portal.51hosting.com/clientarea.php)
 
 ![](http://ww2.sinaimg.cn/large/a74eed94jw1dzam4q4qmbj.jpg)
