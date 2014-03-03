@@ -1,14 +1,14 @@
 #!/usr/bin/env ruby
-ENV['ldap_host'] = 'mailsrv.emagineconcept.com'
+ENV['ldap_host'] = 'ad.northwind.com'
 ENV['ldap_port'] = '3268'
-ENV['ldap_base'] = 'DC=emagineconcept,DC=com'
+ENV['ldap_base'] = 'DC=northwind,DC=com'
 ENV['ldap_uid'] = 'sAMAccountName'
-ENV['ldap_bind_dn'] = 'CN=ldap helper,OU=emagineconcept.com,DC=emagineconcept,DC=com'
-ENV['ldap_password'] = 'IrW9D04kPxgq'
+ENV['ldap_bind_dn'] = 'CN=ldap helper,OU=northwind.com,DC=northwind,DC=com'
+ENV['ldap_password'] = 'password'
 
 require 'rubygems'
 require 'rack'
-require '/Users/jiangle/project/gollum/lib/gollum/app'
+require 'gollum/app'
 
 gollum_path = File.expand_path(File.dirname(__FILE__)) # CHANGE THIS TO POINT TO YOUR OWN WIKI REPO
 Precious::App.set(:gollum_path, gollum_path)
