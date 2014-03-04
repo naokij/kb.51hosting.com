@@ -22,27 +22,27 @@ Dropbox提供了2G的免费网络空间，我们可以利用它来实时备份�
     [root@localhost ~]#tar zxvf dropbox-lnx.x86-2.4.7.tar.gz 
 解压后是一个隐藏目录 .dropbox-dist，如下图： 
 
-![](http://kb.51hosting.com/_media/kb/linux01.png) 
+![](http://kb.51hosting.com/kb/linux01.png) 
 
 之后我们执行命令 ./.dropbox-dist/dropboxd，如下图： 
 
-![](http://kb.51hosting.com/_media/kb/linux02.png) 
+![](http://kb.51hosting.com/kb/linux02.png) 
 
 此时我们需要将显示的网址输入到我们的客户端浏览器中，这里我就把该网址输入我使用的Win7里的chrome里，并回车，出现以下图示： 
 
-![](http://kb.51hosting.com/_media/kb/linux03.png) 
+![](http://kb.51hosting.com/kb/linux03.png) 
 
 在 **登录** 处输入我们之前注册的账号及密码，点 **登录** ，出现下图提示： 
 
-![](http://kb.51hosting.com/_media/kb/linux04.png) 
+![](http://kb.51hosting.com/kb/linux04.png) 
 
 此时我们再次输入上一步输入的密码，点 **提交** 之后，即可在网页顶部看到**你的电脑已成功与你的帐户关联**的提示，如下图： 
 
-![](http://kb.51hosting.com/_media/kb/linux05.png)
+![](http://kb.51hosting.com/kb/linux05.png)
 
 这时我们在登录到CentOS6.3的SecureCRT里也能看到屏幕停止了那条提示我们关联主机的输出，并出现 Client successfully linked,  welcome zhang san! 的提示，其中 zhang san 是我在注册时填写的用户名，如下图： 
 
-![](http://kb.51hosting.com/_media/kb/linux06.png) 
+![](http://kb.51hosting.com/kb/linux06.png) 
 
 这就表示我们已经成功安装Dropbox客户端，并将我们的Dropbox账号与我们这台CentOS6.3系统的云主机进行了关联。
 
