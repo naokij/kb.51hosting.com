@@ -39,5 +39,5 @@ WebShell (https) at 0.0.0.0, port 8022<br>
 **提示现在可以连接  https://IP:8022/ 了，注意使用https协议**。
 
  
-![](http://kb.51hosting.com/_media/kb/webshell1.png)
+![](http://kb.51hosting.com/kb/webshell1.png)
  
