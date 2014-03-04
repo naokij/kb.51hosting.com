@@ -26,7 +26,7 @@
     [root@testvpn ~]#vi /etc/exports
     
 
-![](http://kb.51hosting.com/_media/kb/nfs3.png)<br>
+![](http://kb.51hosting.com/kb/nfs3.png)<br>
 
 **步骤五：重启nfs服务使配置生效<br>**
 
@@ -34,7 +34,7 @@
     方法二[root@testvpn ~]exportfs -rv
     
 
-![](http://kb.51hosting.com/_media/kb/nfs4.png)
+![](http://kb.51hosting.com/kb/nfs4.png)
 
 
 
