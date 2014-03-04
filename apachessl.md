@@ -18,7 +18,7 @@
 **二：用openssl制作自己的证书**<br>
 如果不使用默认的证书，也可以使用OPENSSL手动创建证书。操作如下：<br>
 
-![](http://kb.51hosting.com/_media/kb/ssl1.png)
+![](http://kb.51hosting.com/kb/ssl1.png)
 
 
 **3、生成证书CRT文件**<br>
@@ -33,8 +33,8 @@
 打开Apache的SSL配置文件 /etc/httpd/conf.d/ssl.conf ：<br>
 [root@www ~]# vi /etc/httpd/conf.d/ssl.conf<br>
 
-![](http://kb.51hosting.com/_media/kb/ssl2.png)
+![](http://kb.51hosting.com/kb/ssl2.png)
 
 
 这时新的证书便已经生效了。用IE打开您的服务器地址，点击浏览器中的证书标志，便可以看到刚刚制作的证书信息：<br>
-![](http://kb.51hosting.com/_media/kb/ssl3.png)
+![](http://kb.51hosting.com/kb/ssl3.png)
