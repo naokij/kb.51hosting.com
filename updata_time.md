@@ -23,6 +23,6 @@ time.windows.com ，之后点 **立即更新**，确保是正确的北京时间�
 
 设置好后确认即可，设置好后点击**update now**
 
-![](http://kb.51hosting.com/_media/kb/ntp.png)
+![](http://kb.51hosting.com/kb/ntp.png)
 
  [如上述方法不行,您还可以尝试另一种方法](http://kb.51hosting.com/kb/windows-time-set.md)
