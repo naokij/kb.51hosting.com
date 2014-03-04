@@ -5,12 +5,12 @@
 第一步 新建uploads文件夹和改变下拥有者
 
 
-![](http://kb.51hosting.com/_media/kb/no1.png)
+![](http://kb.51hosting.com/kb/no1.png)
 
 
 第二步： （在vsftpd服务我们已经安装好的情况下，不然没这个配置文件）编辑vsftpd.conf，把图中的选择去掉前面#
-![](http://kb.51hosting.com/_media/kb/no2.png)
-![](http://kb.51hosting.com/_media/kb/no3.png)
+![](http://kb.51hosting.com/kb/no2.png)
+![](http://kb.51hosting.com/kb/no3.png)
 
 第三步： 重启vsftpd 生效，输入service vsftpd restart
 
