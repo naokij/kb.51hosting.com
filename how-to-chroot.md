@@ -41,4 +41,4 @@ passwd test3
  
 
 最后ftp客户端工具比如用filezilla登录后，其实就是服务器上每个用户自己的家目录,无法切换到其他目录，从而提高安全
-![](http://kb.51hosting.com/_media/kb/ftpchroot.png)
+![](http://kb.51hosting.com/kb/ftpchroot.png)
