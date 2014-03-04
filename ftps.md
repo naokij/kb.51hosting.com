@@ -47,4 +47,4 @@
 
 在“加密”多选栏和登录类型里选择如图，账户是"步骤一"的账户和密码图片 
 
-![](http://kb.51hosting.com/_media/kb/ftps.png)
+![](http://kb.51hosting.com/kb/ftps.png)
