@@ -21,14 +21,14 @@
 在 **运行** 里输入 gpedit.msc，打开 **组策略编辑器**，定位到如下图所示位置：
 
 
-![](http://kb.51hosting.com/_media/kb/win2003systim01.png)
+![](http://kb.51hosting.com/kb/win2003systim01.png)
 
 之后双击左边的 **启用Windows NTP客户端**，在弹出的对话框中，选择 **已启用**，之后确定。 接下来再双击左边的 
 
 **配置Windows NTP客户端**，在弹出的对话框中做如下图设置：
 
 
-![](http://kb.51hosting.com/_media/kb/win2003systim02.png?t=1382684848&w=416&h=443&tok=9d19d6)
+![](http://kb.51hosting.com/kb/win2003systim02.png?t=1382684848&w=416&h=443&tok=9d19d6)
 
 
 设置完毕，点击 **确定**。接着再双击 **启用Windows NTP服务器**，在弹出的对话框中，选择 **已禁用**，确定即可。
