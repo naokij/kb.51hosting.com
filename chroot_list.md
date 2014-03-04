@@ -12,15 +12,15 @@
 
 步骤二 vi /etc/vsftpd/vsftpd.conf，去掉chroot_list_enable=yes和chroot_list_file前面的#,按：wq 保存退出
 
-![](http://kb.51hosting.com/_media/kb/chroot_list.png)
+![](http://kb.51hosting.com/kb/chroot_list.png)
 
 
 步骤三 ：vi /etc/vsftpd/chroot_list 填入你想要白名单账户，这里比如是test3
 
-![](http://kb.51hosting.com/_media/kb/chroot__test3.png)
+![](http://kb.51hosting.com/kb/chroot__test3.png)
 
 步骤四 输入service vsftpd restart重启下让配置生效
 
 步骤五 验证 用filezilla客户端去连，test3可以切换目录
 
-![](http://kb.51hosting.com/_media/kb/test3ok.png)
+![](http://kb.51hosting.com/kb/test3ok.png)
