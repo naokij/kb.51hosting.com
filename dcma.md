@@ -1,3 +1,4 @@
+<!-- --- tag:dcma 侵权 投诉 abuse -->
 #DCMA数字千年版权法
 DCMA简单来说就是美国对付网络山寨、仿冒、侵权的法律，具体内容可以参考[DCMA维基百科词条](http://zh.wikipedia.org/zh-cn/數字千年版權法)。
 
