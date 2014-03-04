@@ -11,9 +11,9 @@ Windows系统的云主机和独立主机用户在本地和远程服务器之间�
 
 3. 在下图中我们点 **详细信息**   <br />
 
-<center>![](http://kb.51hosting.com/_media/kb/mstsc1.png?t=1386741592&w=407&h=433&tok=b31263)</center>  <br />
+<center>![](http://kb.51hosting.com/kb/mstsc1.png?t=1386741592&w=407&h=433&tok=b31263)</center>  <br />
 
 4. 之后看到下图，只需要勾选您想挂载到远程主机的磁盘，之后点 **确定** ，再点 **连接** 即可。  <br />
 
-<center>![](http://kb.51hosting.com/_media/kb/mstsc2.png?t=1386741592&w=408&h=399&tok=7b70ee)</center>  <br />
+<center>![](http://kb.51hosting.com/kb/mstsc2.png?t=1386741592&w=408&h=399&tok=7b70ee)</center>  <br />
 
