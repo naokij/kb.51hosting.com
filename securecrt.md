@@ -8,8 +8,8 @@
 
 
 
-![](http://kb.51hosting.com/_media/kb/12.png)
+![](http://kb.51hosting.com/kb/12.png)
 
 
 
-![](http://kb.51hosting.com/_media/kb/2.png)
+![](http://kb.51hosting.com/kb/2.png)
