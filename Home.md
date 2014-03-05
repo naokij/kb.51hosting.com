@@ -30,4 +30,4 @@
 *  [<i class="icon-inbox"></i> 垃圾邮件](/spam-email) 怎么避免发垃圾邮件
 *  [<i class="icon-legal"></i> DDOS](/ddos) 什么是DDOS? 被DDOS了怎么办？
 *  [<i class="icon-legal"></i> 侵权](/dcma) 被投诉侵权了该如何应对？
-*  [<i class="icon-legal"></i> 端口扫描](/port-scan) 什么是端口扫描？被投诉端口扫描如何处理？
+*  [<i class="icon-shield"></i> 端口扫描](/port-scan) 什么是端口扫描？被投诉端口扫描如何处理？
