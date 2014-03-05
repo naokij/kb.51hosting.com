@@ -19,13 +19,13 @@
 
 ###[<i class="icon-lightbulb"></i> 操作指引](/tag/操作指引)
 
-*  [<i class="icon-linux"></i> Linux](/tag/linux)
-*  [<i class="icon-windows"></i> Windows](/tag/windows)
+*  [<i class="icon-linux"></i> Linux](/tag/linux) CentOS/Ubuntu系统有关的问题
+*  [<i class="icon-windows"></i> Windows](/tag/windows) Windows 2003/Windows 2008使用问题
 
 ###[<i class="icon-legal"></i> 服务条款](/tag/政策)
 
-*  [<i class="icon-legal"></i> 条款原文](http://www.51hosting.com/legal.html)
-*  [<i class="icon-inbox"></i> 垃圾邮件](/spam-email)
-*  [<i class="icon-legal"></i> DDOS](/ddos)
-*  [<i class="icon-legal"></i> 侵权](/dcma)
-*  [<i class="icon-legal"></i> 端口扫描](/port-scan)
+*  [<i class="icon-legal"></i> 条款原文](http://www.51hosting.com/legal.html) 五域通达条款原文
+*  [<i class="icon-inbox"></i> 垃圾邮件](/spam-email) 怎么避免发垃圾邮件
+*  [<i class="icon-legal"></i> DDOS](/ddos) 什么是DDOS? 被DDOS了怎么办？
+*  [<i class="icon-legal"></i> 侵权](/dcma) 被投诉侵权了该如何应对？
+*  [<i class="icon-legal"></i> 端口扫描](/port-scan) 什么是端口扫描？被投诉端口扫描如何处理？
