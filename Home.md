@@ -7,12 +7,12 @@
 [客户注册](/2012-11-22-how-to-sign-up) | [选购产品](/buy-products) |[管理产品](/manage-products) |[续费](/2012-12-24-how-to-renew)
 ------------------------------|--------------------|-------------|-----
 
-###<i class="icon-rocket"></i> 快速使用
+##<i class="icon-rocket"></i> 快速使用
 
 *  [CentOS](/tag/centos上手)
 *  [Windows 2003](/tag/windows2003上手/)
 
-###<i class="icon-lightbulb"></i> 操作指引
+##<i class="icon-lightbulb"></i> 操作指引
 
 *  [Windows 2003](/2012-11-15-start-using-win2003)
 *  [Windows 2008](/2012-12-03-windows-2008-basic-settings)
