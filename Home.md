@@ -19,9 +19,8 @@
 
 ###[<i class="icon-lightbulb"></i> 操作指引](/tag/操作指引)
 
-*  [<i class="icon-windows"></i> Windows 2003](/2012-11-15-start-using-win2003)
-*  [<i class="icon-windows"></i> Windows 2008](/2012-12-03-windows-2008-basic-settings)
-*  [<i class="icon-linux"></i> CentOS](/centos-basic-security-settings)
+*  [<i class="icon-linux"></i> Linux](/tag/linux)
+*  [<i class="icon-windows"></i> Windows](/tag/windows)
 
 ###[<i class="icon-legal"></i> 服务条款](/tag/政策)
 
