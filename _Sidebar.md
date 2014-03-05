@@ -3,7 +3,7 @@
 * [注册与购买](/tag/客户中心)
 * [快速上手](/tag/快速上手)
 * [Linux系统](/tag/linux)
-* [Windows系统](/tag/windows系统)
+* [Windows系统](/tag/windows)
 * [Plesk虚拟主机](/tag/plesk)
 * [cPanel虚拟主机](/tag/cpanel)
 * [政策与规范](/tag/政策)
