@@ -16,4 +16,4 @@
 
 ### [<i class="icon-weibo"></i> 官方微博](http://weibo.com/51hosting)
 
-### [<i class="icon-sitemap"></i> 五域通达官网](http://www.51hosting.com)
+### [<i class="icon-globe"></i> 五域通达官网](http://www.51hosting.com)
