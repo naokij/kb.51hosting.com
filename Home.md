@@ -4,8 +4,11 @@
 ##<i class="icon-shopping-cart"></i> 注册购买
 
 
-[客户注册](/2012-11-22-how-to-sign-up) | [选购产品](/buy-products) |[管理产品](/manage-products) |[续费](/2012-12-24-how-to-renew)
-------------------------------|--------------------|-------------|-----
+[<i class="icon-user"></i> 客户注册](/2012-11-22-how-to-sign-up)
+[<i class="icon-shopping-cart"></i>选购产品](/buy-products)
+[管理产品](/manage-products)
+[续费](/2012-12-24-how-to-renew)
+
 
 ##<i class="icon-rocket"></i> 快速使用
 
