@@ -1,9 +1,10 @@
-## 知识库分类
-
+## 知识库索引
 * [常见问题](/tag/faq)
-* [客户中心](/tag/客户中心)
-* [云主机](/tag/云主机)
-* [独立服务器](/tag/独立服务器)
-* [Windows虚拟主机](/tag/plesk)
-* [Linux虚拟主机](/tag/cpanel)
+* [注册与购买](/tag/客户中心)
+* [快速上手](/tag/快速上手)
+* [Linux系统](/tag/linux)
+* [Windows系统](/tag/windows系统)
+* [Plesk虚拟主机](/tag/plesk)
+* [cPanel虚拟主机](/tag/cpanel)
+* [政策与规范](/tag/政策)
 * [推介计划](/tag/推介计划)
