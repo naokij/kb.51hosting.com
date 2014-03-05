@@ -5,7 +5,7 @@
 
 
 
-(最近由于java更新导致控制面板的Serial Console功能无法正常使用，请移步至此[使用SSH客户端连接到Linux云主机的Serial Console界面](http://kb.51hosting.com/kb/2013-11-27-ssh-to-serial-console.md))
+(最近由于java更新导致控制面板的Serial Console功能无法正常使用，请移步至此[使用SSH客户端连接到Linux云主机的Serial Console界面](/2013-11-27-ssh-to-serial-console))
 --------------------------------------------------------------------------------------------------------------
 我们通常使用SSH去远程登录到Linux云主机上去管理服务器。那么既然如此，为什么还要使用Serial Console功能呢？答案很简单，Serial Console功能能帮助我们在无法正常使用SSH的时候也可以登录到服务器进行管理。 操作步骤如下：
 
