@@ -9,7 +9,7 @@
 *  [<i class="icon-refresh"></i> 续费](/2012-12-24-how-to-renew) 在这里学习如何为您的产品和服务续费
 
 
-##<i class="icon-rocket"></i> 快速使用
+###[<i class="icon-rocket"></i> 快速使用](/tag/快速使用)
 
 *  [<i class="icon-linux"></i> CentOS](/tag/centos上手) 最常用的发行版Linux
 *  [<i class="icon-linux"></i> Ubuntu](/tag/ubuntu上手) 开发者常用的Linux发行版
@@ -17,16 +17,16 @@
 *  [<i class="icon-windows"></i> Windows 2003](/tag/windows2003上手/) 发布10年的老Windows系统，明年即将彻底退役
 
 
-##<i class="icon-lightbulb"></i> 操作指引
+###[<i class="icon-lightbulb"></i> 操作指引](/tag/操作指引)
 
 *  [<i class="icon-windows"></i> Windows 2003](/2012-11-15-start-using-win2003)
 *  [<i class="icon-windows"></i> Windows 2008](/2012-12-03-windows-2008-basic-settings)
 *  [<i class="icon-linux"></i> CentOS](/centos-basic-security-settings)
 
-##<i class="icon-legal"></i> 服务条款
+###[<i class="icon-legal"></i> 服务条款](/tag/政策)
 
-*  [条款原文](http://www.51hosting.com/legal.html)
-*  [垃圾邮件](/spam-email)
-*  [DDOS](/ddos)
-*  [侵权](/dcma)
-*  [端口扫描](/port-scan)
+*  [<i class="icon-legal"></i> 条款原文](http://www.51hosting.com/legal.html)
+*  [<i class="icon-inbox"></i> 垃圾邮件](/spam-email)
+*  [<i class="icon-legal"></i> DDOS](/ddos)
+*  [<i class="icon-legal"></i> 侵权](/dcma)
+*  [<i class="icon-legal"></i> 端口扫描](/port-scan)
