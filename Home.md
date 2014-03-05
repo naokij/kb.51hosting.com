@@ -3,10 +3,10 @@
 
 ###[<i class="icon-shopping-cart"></i> 注册购买](/tag/客户中心)
 
-*  [<i class="icon-user"></i> 客户注册](/2012-11-22-how-to-sign-up) 必须注册才能购买五域通达的产品和服务
+*  [<i class="icon-key"></i> 客户注册](/2012-11-22-how-to-sign-up) 必须注册才能购买五域通达的产品和服务
 *  [<i class="icon-shopping-cart"></i>选购产品](/buy-products) 如何购买和付费
-*  [<i class="icon-bar-chart"></i> 管理产品](/manage-products) 管理和查看您在五域通达的产品和服务
-*  [<i class="icon-refresh"></i> 续费](/2012-12-24-how-to-renew) 在这里学习如何为您的产品和服务续费
+*  [<i class="icon-dashboard"></i> 管理产品](/manage-products) 管理和查看您在五域通达的产品和服务
+*  [<i class="icon-credit-card"></i> 续费](/2012-12-24-how-to-renew) 在这里学习如何为您的产品和服务续费
 
 
 ###[<i class="icon-rocket"></i> 快速使用](/tag/快速使用)
