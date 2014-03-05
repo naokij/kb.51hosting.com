@@ -4,6 +4,7 @@
 我们会发邮件将登录信息告诉您。
 
 请登录您的注册邮箱查看3389登录信息。
-![](http://kb.51hosting.com/kb/win2003quick.jpg)
+
+![](http://wiki.emagineconcept.com/_media/kb/vps/win2003quick.jpg?t=1394009772&w=360&h=226&tok=b175ac)
 
 如果您在收件箱没看到我们发送的邮件，请查看垃圾信箱。如果还没有，请将sales@51hosting.com加入到你信箱联系人列表，然后联系我们再次发送登入信息。
