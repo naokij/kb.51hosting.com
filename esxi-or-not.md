@@ -1,4 +1,5 @@
-<!-- tag: 客户中心 导购 esxi -->
+<!-- --- tag: 客户中心 导购 esxi -->
+<!-- --- title: 是否应该选择ESXi? -->
 #是否应该选择ESXi?
 ESXi是VMWare开发的虚拟机Hypervisor，它类似与VMWare自家的VMWare Player，不同之处ESXi不需要额外的操作系统，是直接运行与硬件之上，所以开销较小。
 
