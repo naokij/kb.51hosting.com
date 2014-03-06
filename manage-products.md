@@ -22,12 +22,13 @@
 
 ##管理独立主机
 
-*   4.在产品详情页面中下方，可以对您的云主机进行重启，关机，开机等管理操作。
-
-![](http://ww1.sinaimg.cn/large/a74e55b4jw1dz8hzmrn1mj.jpg)
 
 
 ##管理云主机
+
+*   4.在产品详情页面中下方，可以对您的云主机进行重启，关机，开机等管理操作。
+
+![](http://ww1.sinaimg.cn/large/a74e55b4jw1dz8hzmrn1mj.jpg)
 
 
 ##管理虚拟主机
