@@ -10,7 +10,7 @@ SSH是管理CentOS最常用的工具，SSH本身的设计比较安全，但是�
 
 ### 修改SSH端口
 
-    nano /etc/ssh/ssh_config
+    nano /etc/ssh/sshd_config
 
 找到`#Port 22`，删除`#`，然后将`22`改成你的幸运数字。
 
