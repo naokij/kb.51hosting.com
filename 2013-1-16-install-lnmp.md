@@ -1,25 +1,25 @@
 <!-- --- tag: 独立服务器 云主机 LNMP -->
-
+<!-- --- tag: centos上手 -->
 <!-- --- title: 如何一键安装LNMP包 -->
-#如何一键安装LNMP包
+# 如何一键安装LNMP包
 
 也许大家对LAMP比较熟悉，LAMP代表Linux下Apache、MySQL、PHP这种网站服务器架构；同上LNMP代表的就是Linux下Nginx、MySQL、PHP这种网站服务器架构。下面给大家介绍LNMP包的一键安装方法。
 
-###系统需求
+### 系统需求
 
 需要2 GB硬盘剩余空间
 128M以上内存,OpenVZ的建议192MB以上(小内存请勿使用64位系统)
 Linux下区分大小写，输入命令时请注意！
 
-##安装步骤
+## 安装步骤
 
-###1.SSH登陆服务器
+### 1.SSH登陆服务器
 
 使用putty或类似的SSH工具登陆服务器，
 登陆后运行：#screen -S lnmp
 如果提示screen命令不存在可以执行：#yum install screen 或 #apt-get install screen安装。
 
-###2.下载LNMP一键安装包
+### 2.下载LNMP一键安装包
 
 您可以选择使用下载版(推荐国外或者美国VPS使用)或者完整版(推荐国内VPS使用)
 如需下载版执行命令：
@@ -31,12 +31,12 @@ wget -c http://soft.vpser.net/lnmp/lnmp0.9.tar.gz
 wget -c http://soft.vpser.net/lnmp/lnmp0.9-full.tar.gz
 下载完成后LNMP一键安装包就会被下载到您的服务器或VPS上（一般用root登陆没切换目录的话应该在/root 下面）。
 
-###3.解压LNMP一键安装包
+### 3.解压LNMP一键安装包
 
 执行：tar zxvf lnmp0.9.tar.gz 或 tar zxvf lnmp0.9-full.tar.gz 就会将LNMP一键安装包解压缩。
 
 
-###4.开始安装LNMP一键安装包
+### 4.开始安装LNMP一键安装包
 
 进入LNMP安装目录，执行：cd lnmp0.9/ 或 cd lnmp0.9-full/
 再执行安装程序前需要您确认您的Linux发行版，可以执行：cat /etc/issue 查看是CentOS、Debian还是Ubuntu，也可以通过VPS服务商提供的控制面板上查看。确定好之后，选择下面对应系统的安装命令：
