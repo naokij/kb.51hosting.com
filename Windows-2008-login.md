@@ -1,6 +1,6 @@
 <!-- --- tag: windows2008上手 -->
 
-# Windows 2008 快速上手 2 - 登录Windows 2008
+# 登录到Windows 2008
 
 在获得了Windows 2008云主机的登录信息后，您就可以利用Windows下的远程桌面来登录系统了：
 
