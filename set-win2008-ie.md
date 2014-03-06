@@ -1,4 +1,4 @@
-<!-- --- tag: 云主机 faq Win2008 IE 独立服务器 -->
+<!-- --- tag: 云主机 faq Windows2008上手 IE 独立服务器 -->
 
 <!-- --- title: 解决Windows Server2008 R2中IE开网页时弹出阻止框  -->
 #解决Windows Server2008 R2中IE开网页时弹出阻止框 
