@@ -1,4 +1,4 @@
-<!-- --- tag: 云主机 rdp faq win2003 安全 独立服务器 -->
+<!-- --- tag: Windows2008快速上手 -->
 <!-- --- title: Windows 2008系统基本安全设置 -->
 #Windows 2008系统基本安全设置
 
