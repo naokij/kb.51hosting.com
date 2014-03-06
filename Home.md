@@ -7,7 +7,7 @@
 *  [<i class="icon-shopping-cart"></i>选购产品](/buy-products) 如何购买和付费
 *  [<i class="icon-dashboard"></i> 管理产品](/manage-products) 管理和查看您在五域通达的产品和服务
 *  [<i class="icon-credit-card"></i> 续费](/2012-12-24-how-to-renew) 在这里学习如何为您的产品和服务续费
-*  [<i class="icon-question"></i> 导购](/tag/导购) 如果您不知道选择那种产品或者哪个系统，请看这里
+*  [<i class="icon-hand-right"></i> 导购](/tag/导购) 如果您不知道选择那种产品或者哪个系统，请看这里
 
 ###[<i class="icon-rocket"></i> 快速使用](/tag/快速使用)
 
