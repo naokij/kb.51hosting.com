@@ -1,4 +1,4 @@
-<!-- --- tag: 导购 -->
+<!-- --- tag: 导购 客户中心 -->
 # Windows 2008 还是 Windows 2003
 
 ## Windows 2008
