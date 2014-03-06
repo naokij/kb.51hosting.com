@@ -1,4 +1,4 @@
-<!-- --- tag: Windows2008快速上手 -->
+<!-- --- tag: windows2008上手 -->
 
 # Windows 2008快速上手2 - 登录Windows 2008
 
