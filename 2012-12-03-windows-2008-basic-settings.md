@@ -1,4 +1,4 @@
-<!-- --- tag: Windows2008快速上手 -->
+<!-- --- tag: Windows2008上手 -->
 <!-- --- title: Windows 2008系统基本安全设置 -->
 #Windows 2008系统基本安全设置
 
