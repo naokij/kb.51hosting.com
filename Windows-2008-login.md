@@ -1,4 +1,4 @@
-<!-- --- tag: faq windows2008 远程桌面 云主机 独立服务器 -->
+<!-- --- tag: Windows2008快速上手 -->
 <!-- --- title: 利用远程桌面登陆Windows 2008系统 -->
 <!-- --- tag: Windows2008上手 -->
 # Windows 2008快速上手 2 - 登录Windows 2008
