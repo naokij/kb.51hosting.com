@@ -1,4 +1,4 @@
-<!-- --- tag: 导购 -->
+<!-- --- tag: 导购 客户中心 -->
 # CentOS、Ubuntu还是Debian
 ##CentOS
 
