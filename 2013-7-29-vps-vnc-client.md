@@ -1,5 +1,5 @@
 <!-- --- tag: 云主机 VNC -->
-<!-- --- title: 如何使用VNC客户端连接？ -->
+<!-- --- title: 如何使用VNC客户端连接Windows云主机？ -->
 #如何使用VNC客户端连接？
 
 我们在使用windows系统的VPS时，可以通过2种方式进行管理：RDP远程桌面 和VNC。但当windows系统的RDP服务出问题无法RDP远程登陆时，我们就需要用到VNC功能。下面给大家介绍如何用VNC客户端连接VNC。
