@@ -1,4 +1,4 @@
-<!-- --- tag:  云主机 vps scurecrt -->
+<!-- --- tag:  linux scurecrt -->
 <!-- --- title: 如何用Zmodem配合SecureCRT上传下载文件（centos 5.9 64）? -->
 #如何用Zmodem配合SecureCRT上传下载文件（centos 5.9 64）?
 
