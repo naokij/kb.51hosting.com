@@ -1,6 +1,5 @@
 <!-- --- tag: faq ssh putty xterm 云主机 独立服务器 -->
 <!-- --- title: 利用SSH登陆 Linux 系统 -->
-<!-- --- tag: centos上手 -->
 # CentOS快速上手2 - SSH远程登入CentOS
 
 Linux系统与Windows不同，通常仅仅提供SSH管理界面。我们日常使用的Windows系统并未自带任何SSH登陆工具，所以我们这里给大家介绍两款SSH登陆工具。
