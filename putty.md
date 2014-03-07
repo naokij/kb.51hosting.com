@@ -1,4 +1,4 @@
-<!-- --- tag:  云主机 vps putty -->
+<!-- --- tag:  linux putty -->
 
 
 <!-- --- title: 如何解决putty的中文乱码问题？ -->
