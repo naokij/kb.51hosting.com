@@ -1,4 +1,4 @@
-<!-- --- tag:  云主机 vps webshell -->
+<!-- --- tag:  linux webshell -->
 
 
 <!-- --- title: 如何用通过浏览器管理linux服务器（centos5.9 64）<br> -->
