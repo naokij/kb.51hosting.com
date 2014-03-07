@@ -1,6 +1,6 @@
 <!-- --- tag: 备份 backup dropbox Linux centos ubuntu -->
-<!-- --- title: 利用Dropbox备份Linux系统上的文件 -->
-#利用Dropbox备份Linux系统上的文件
+<!-- --- title: 利用Dropbox备份网站文件(Linux) -->
+#利用Dropbox备份网站文件(Linux)
 
 Dropbox提供了2G的免费网络空间，我们可以利用它来实时备份我们Linux云主机或者独立主机上的文件。首先我们要在 www.dropbox.com 上注册一个账号，并下载它的客户端，安装在我们的系统上。这里我以CentOS6.3 32位系统的云主机为例来配置Dropbox同步我们系统上的数据。
 
