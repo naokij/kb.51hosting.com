@@ -1,4 +1,4 @@
-<!-- --- tag: 云主机 独立服务器 password windows -->
+<!-- --- tag: windows 密码 -->
 <!-- --- title: 如何修改windows系统Administrator的密码 -->
 #如何修改windows系统Administrator的密码
 
