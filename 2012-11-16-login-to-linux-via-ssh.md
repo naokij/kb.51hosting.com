@@ -1,4 +1,4 @@
-<!-- --- tag: faq ssh putty xterm 云主机 独立服务器 快速上手 linux centos上手 -->
+<!-- --- tag: faq ssh putty 快速上手 linux centos上手 -->
 <!-- --- title: 利用SSH登陆 Linux 系统 -->
 # CentOS快速上手2 - SSH远程登入centos
 
