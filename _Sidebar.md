@@ -9,6 +9,7 @@
 * [操作指引](/tag/操作指引)
   * [Linux系统](/tag/linux)
   * [Windows系统](/tag/windows)
+  * [云主机控制面板](/tag/云主机控制面板)
   * [Plesk虚拟主机](/tag/plesk)
   * [cPanel虚拟主机](/tag/cpanel)
 * [网络问题](/tag/网络)
