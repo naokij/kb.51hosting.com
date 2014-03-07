@@ -1,4 +1,4 @@
-<!-- --- tag: 云主机 独立服务器 Windows 远程桌面 共享 -->
+<!-- --- tag: Windows 远程桌面 共享 -->
 
 <!-- --- title: Windows远程桌面挂载本地磁盘 -->
 #Windows远程桌面挂载本地磁盘
