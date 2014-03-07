@@ -12,9 +12,27 @@
 第二步：输入以下代码后（注意最后一行的199.101.117.xx改成你自己的那个服务器地址) 保存退出
 
     [root@niko ~]# vi backup.sh 
+```shell
+#!/bin/bash
+backdir=/backup 
+month=`date +%m`
+day=`date +%d`
+year=`date +%Y`
+dirname=$year-$month-$day
 
-<script src="https://gist.github.com/naokij/7886260.js"></script>
-    
+mkdir -p $backdir/$dirname
+mkdir -p $backdir/$dirname/conf
+mkdir -p $backdir/$dirname/web
+mkdir -p $backdir/$dirname/db
+ 
+ 
+gzupload=upload.tgz
+cp /etc/httpd/conf/httpd.conf $backdir/$dirname/conf/httpd.conf
+cd /var/www/html/
+tar -zcvf $backdir/$dirname/web/$gzupload ./
+scp -r /backup/$dirname root@199.101.117.xx:/backup
+```
+
  第三步 crontab -e 设置每日定时
     
     [root@niko ~]# crontab -e
