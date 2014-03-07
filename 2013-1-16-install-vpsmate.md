@@ -1,7 +1,7 @@
-<!-- --- tag: 独立服务器 云主机 VPSMate Linux centos上手 -->
+<!-- --- tag: VPSMate Linux centos -->
 
-<!-- --- title: 如何在Linux下安装VPSMate控制面板 -->
-#如何在Linux下安装VPSMate控制面板
+<!-- --- title: 安装VPSMate控制面板 -->
+#安装VPSMate控制面板
   
 在通常情况下，用SSH管理Linux VPS或者服务器时，对于大多数新手来说是件十分头疼的事情。幸好有很多高手写了不少免费好用的主机控制面板。 
 下面给诸位介绍一款安装及其简单，简约明了的图形化界面操作，超低资源占用，且功能强大的控制面板[VPSMate](http://www.vpsmate.org/)。
