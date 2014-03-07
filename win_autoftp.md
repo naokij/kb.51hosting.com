@@ -1,4 +1,4 @@
-<!-- --- tag:  windows 云主机 进阶 ftp -->
+<!-- --- tag:  windows linux 进阶 ftp -->
 <!-- --- title: 如何在window下自动登录linux的ftp服务器并下载文件？ -->
 #如何在window下自动登录linux的ftp服务器并下载文件？
 
