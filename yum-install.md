@@ -1,9 +1,10 @@
 <!-- --- tag: centos上手 linux -->
-# CentOS环境下通过YUM安装软件
+<!-- --- title: CentOS快速上手3 - 通过YUM安装软件 -->
+# CentOS快速上手3 - 通过YUM安装软件
 为了提升用户在云服务器上的软件安装效率，减少下载和安装软件的成本，在CentOS环境下，开发者可通过YUM快速安装软件。
 
 ### 1. 安装步骤
-1. 登录操作系统为CentOS6.2的云服务器后，默认已获取root权限：
+1. 登录操作系统为CentOS6.x的云服务器后，默认已获取root权限：
 
 2. 在root权限下，通过命令 yum install 来安装软件，示例如下：
 ![](http://i1.51hosting.com/2014-03-06_12_43_1.png)
