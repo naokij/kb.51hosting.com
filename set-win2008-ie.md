@@ -7,7 +7,7 @@
 相信使用Windows Server2008的朋友都遇到过这种情况，用IE打开网站时会弹出“Internet Explorer增强安全配置正在阻止来自下列网站的此应用程序中的内容”的对话框。如下图所示：
 
 
-![](http://i3.minus.com/iHwVX1n7QPeGO.png)
+ ![](http://i3.minus.com/iHwVX1n7QPeGO.png)
 
 
 在Windows Server2008 禁止弹出此类对话框的步骤
