@@ -1,4 +1,4 @@
-<!-- --- tag:  linux 云主机 ftp 进阶  -->
+<!-- --- tag:  linux vsftpd 进阶  -->
 <!-- --- title: 如何设置vsftpd系统账号的黑名单? -->
 #如何设置vsftpd系统账号的黑名单?
 
