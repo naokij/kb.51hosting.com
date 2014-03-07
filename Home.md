@@ -21,6 +21,8 @@
 
 *  [<i class="icon-linux"></i> Linux](/tag/linux) CentOS/Ubuntu系统有关的问题
 *  [<i class="icon-windows"></i> Windows](/tag/windows) Windows 2003/Windows 2008使用问题
+*  [<i class="icon-lightbulb"></i>云主机](/tag/云主机) 云主机以及控制面板有关问题
+*  [<i class="icon-lightbulb"></i>独立服务器](/tag/独立服务器) 独立服务器有关问题
 *  [<i class="icon-linux"></i> cPanel](/tag/linux) cPanel虚拟主机使用有关问题
 * [<i class="icon-windows"></i> Plesk](/tag/windows) Plesk虚拟主机使用有关问题
 
