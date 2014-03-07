@@ -1,4 +1,4 @@
-<!-- --- tag: faq windows2008上手 扩展 独立服务器 云主机 -->
+<!-- --- tag: faq windows2008上手 windows 扩展 -->
 
 <!-- --- title: Windows 2008下分区大小扩展 -->
 #Windows 2008下分区大小扩展
