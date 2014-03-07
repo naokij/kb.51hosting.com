@@ -1,4 +1,4 @@
-<!-- --- tag:  linux 共享 nfs  -->
+<!-- --- tag:  linux 共享 nfs centos -->
 
 
 <!-- --- title: 如何快速搭建NFS共享服务器centos5.9/centos6.3 64位 -->
