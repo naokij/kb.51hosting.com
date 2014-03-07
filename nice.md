@@ -1,4 +1,4 @@
-<!-- --- tag:  云主机 vps nice 进程 ps 进阶  -->
+<!-- --- tag:  云主机 linux 进阶  -->
 
 
 <!-- --- title: 如何在linux的vps上调整进程的优先级？ -->
