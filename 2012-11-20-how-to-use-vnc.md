@@ -20,7 +20,7 @@
 
 4. 点击进去后在页面下边右侧有个VNC，点击即用VNC远程登陆服务器.使用VNC默认需要安装java。
 下载地址(http://www.java.com/zh_CN）
-  * 注意：请参照[这篇知识库文章](/can-not-use-vnc)对安装好的Java进行设置
+  * 注意：您还需要参照[这篇知识库文章](/can-not-use-vnc)对安装好的Java进行设置
 
   ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9gdlu8hjj.jpg)
 
