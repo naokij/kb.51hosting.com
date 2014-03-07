@@ -1,4 +1,4 @@
-<!-- --- tag: 独立服务器 云主机 VPSMate Linux -->
+<!-- --- tag: 独立服务器 云主机 VPSMate Linux centos上手 -->
 
 <!-- --- title: 如何在Linux下安装VPSMate控制面板 -->
 #如何在Linux下安装VPSMate控制面板
