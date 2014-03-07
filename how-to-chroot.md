@@ -1,5 +1,4 @@
-<!-- --- tag: 云主机 centos chroot ftp  -->
-
+<!-- --- tag: linux vsftpd centos chroot ftp  -->
 <!-- --- title: 如何把vsftpd的系统账户登录后chroot在自己家目录 -->
 #如何把vsftpd的系统账户登录后chroot在自己家目录
 
