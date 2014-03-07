@@ -30,22 +30,5 @@
 
 *    5.用VNC登陆后， 按照系统不同做相应的设置
 
-###打开远程桌面
-
-*    5-1.安全考虑Windows 2003 新装云主机默认不开启RDP远程桌面，需要手动在 我的电脑-属性-远程桌面开启
-
-![](http://ww3.sinaimg.cn/large/a74eed94jw1dz9l8escy5j.jpg)
-
-*    5-2.开启远程桌面后， 请修改默认密码提高服务器的安全性。
-
-![](http://ww3.sinaimg.cn/large/a74ecc4cjw1dz9l2m7hi5j.jpg)
-
-###修改密码
-
-*    5-3. 新装的 Windows 2008 云主机需要手动设置新密码
-
-![](http://ww1.sinaimg.cn/large/a74e55b4jw1dz9k866e2hj.jpg)
-![](http://ww2.sinaimg.cn/large/a74e55b4jw1dz9k9h1mxvj.jpg)
-![](http://ww1.sinaimg.cn/large/a74ecc4cjw1dz9k9u61nzj.jpg)
 
 
