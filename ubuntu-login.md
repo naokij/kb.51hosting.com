@@ -1,5 +1,5 @@
-<!-- --- tag: faq ssh putty xterm 云主机 独立服务器 快速上手 linux ubuntu上手 -->
-<!-- --- title: 利用SSH登陆 Linux 系统 -->
+<!-- --- tag: ssh putty 快速上手 linux ubuntu上手 -->
+<!-- --- title: Ubuntu快速上手2 - SSH远程登入Ubuntu -->
 # Ubuntu快速上手2 - SSH远程登入Ubuntu
 
 Linux系统与Windows不同，通常仅仅提供SSH管理界面。我们日常使用的Windows系统并未自带任何SSH登陆工具，所以我们这里给大家介绍两款SSH登陆工具。
