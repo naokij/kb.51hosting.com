@@ -1,8 +1,6 @@
-<!-- --- tag:  云主机 vps ddos  -->
-
-
-<!-- --- title: 在vps上部署一个简单的防御ddos的shell脚本（转载） -->
-#在vps上部署一个简单的防御ddos的shell脚本（转载）
+<!-- --- tag:  linux shell ddos  -->
+<!-- --- title: 简单的防御ddos的shell脚本（转载） -->
+#简单的防御ddos的shell脚本（转载）
 
 如果服务器一直受到DDOS的攻击，目前只能通过封IP来源来暂时解决。IP不源变化多端，光靠手工来添加简直是恶梦，想了个方法，用SHELL来做。
 比较简单，但很实用：）
@@ -12,14 +10,16 @@
     [root@testvpn ~]#mkdir /root/bin
     [root@testvpn ~]#vi /root/bin/dropip.sh
 
-    #!/bin/bash
-    /bin/netstat -na|grep ESTABLISHED|awk ‘{print $5}’|awk -F: ‘{print $1}’|sort|uniq -c|sort -rn|head -10|grep -v -E      ’192.168|127.0′|awk ‘{if ($2!=null && $1>4) {print $2}}’>/tmp/dropip
-    for i in $(cat /tmp/dropip)
-    do
-    /sbin/iptables -A INPUT -s $i -j DROP
-    echo "$i kill at `date`">>/var/log/ddos
-    done
-    
+```shell
+#!/bin/bash
+/bin/netstat -na|grep ESTABLISHED|awk ‘{print $5}’|awk -F: ‘{print $1}’|sort|uniq -c|sort -rn|head -10|grep -v -E      ’192.168|127.0′|awk ‘{if ($2!=null && $1>4) {print $2}}’>/tmp/dropip
+for i in $(cat /tmp/dropip)
+do
+/sbin/iptables -A INPUT -s $i -j DROP
+echo "$i kill at `date`">>/var/log/ddos
+done
+```
+
 ##2.增加执行权限
     
     [root@testvpn ~]#chmod +x /root/bin/dropip.sh
