@@ -1,4 +1,4 @@
-<!-- --- tag: 独立服务器 云主机 backup dropbox Linux -->
+<!-- --- tag: 备份 backup dropbox Linux centos ubuntu -->
 <!-- --- title: 利用Dropbox备份Linux系统上的文件 -->
 #利用Dropbox备份Linux系统上的文件
 
