@@ -1,4 +1,4 @@
-<!-- --- tag:  云主机 vps  ssh免密码登录  -->
+<!-- --- tag:  ssh linux  操作指引-->
 
 
 <!-- --- title: 如何ssh免密码登录linux服务器？ -->
