@@ -1,4 +1,4 @@
-<!-- --- tag: windows 云主机 独立服务器 -->
+<!-- --- tag: windows 云主机 -->
 <!-- --- title: windows云主机系统时间不准确的修改方法 -->
 #windows云主机系统时间不准确的修改方法
 
