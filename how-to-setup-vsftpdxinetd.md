@@ -1,5 +1,5 @@
 <!-- --- title: 如何搭建xinetd方式的vsftpd？-->
-<!-- --- tag: 云主机 独立服务器 CentOS vsftpd xinetd 进阶 ftp -->
+<!-- --- tag: linux centos vsftpd xinetd 进阶 ftp -->
 #如何搭建xinetd方式的vsftpd？
 ##使用场景：
 vsftp有两种模式启动
