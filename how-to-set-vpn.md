@@ -1,4 +1,4 @@
-<!-- --- tag: 云主机 独立服务器 CentOS pptp vpn -->
+<!-- --- tag: 云主机 独立服务器 CentOS pptp vpn centos上手 -->
 <!-- --- title:  在CentOS5.x上利用pptpd配置vpn服务   -->
 # 在CentOS5.x上利用pptpd配置vpn服务  
 
