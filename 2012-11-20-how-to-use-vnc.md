@@ -9,7 +9,7 @@
 1. 登陆到[客户中心](http://portal.51hosting.com)
 
   ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9lo1y495j.jpg)
-  
+
 
 2. 在产品服务-我的产品服务找到需要远程登陆的云主机。
 
