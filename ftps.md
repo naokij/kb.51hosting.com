@@ -16,7 +16,7 @@
 > passwd  test   # 设置密码
 
 
->第二步：生成证书
+第二步：生成证书
 
 >yum -y install   vsftpd  make
 
