@@ -57,7 +57,7 @@ virtual_use_local_privs=yes      #让虚拟用户和系统用户权限一样跟�
 
  
 
-====== 如果想达到每个用户不同的权限 ======
+###如果想达到每个用户不同的权限
 
 ```
 user_config_dir=/etc/vsftpd      # 把上面配置文件里刚才设置的virtual_use_local_privs=yes替换成左边这条命令，然后还要继续下面设置 
