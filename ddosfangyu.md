@@ -25,8 +25,9 @@ done
     [root@testvpn ~]#chmod +x /root/bin/dropip.sh
 
 ##3.添加到计划任务，每分钟执行一次
+
     crontab -e
-*/1 * * * * /root/bin/dropip.sh
+    */1 * * * * /root/bin/dropip.sh
 
 说明：
 以上脚本比较简单，但很实用，最重要的是第二行，获取ESTABLISHED连接数最多的前10个ip并写入临时文件/tmp/dropip,排除了内部ip段192.168|127.0开头的.通过for循环将dropip里面的ip通过iptables全部drop掉，然后写到日志文件/var/log/ddos
