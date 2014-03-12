@@ -1,4 +1,4 @@
-<!-- --- tag: LNMP,Ubuntu上手,linux -->
+<!-- --- tag: LNMPUbuntu -->
 <!-- --- title: LNMP一键安装包 -->
 #LNMP一键安装包
 
