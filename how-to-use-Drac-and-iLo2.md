@@ -38,5 +38,8 @@
   ![](http://i1.51hosting.com/2014-03-13_15_17_iLo_07.png)
   
 图中的 Server is currently is STANDBY(OFF)表示该主机目前处于关机状态，此时我们点击左边的 Momentary Press 或 Press and Hold 按钮，即可开机。开机以后，Power Management标签页将如下图显示：
+
   ![](http://i1.51hosting.com/2014-03-13_15_18_iLo2_08.png)
+  
+图中的5个按钮都是跟主机的开关重启有关的，当然您也可以在系统里关机或重启。
   
