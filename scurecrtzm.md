@@ -3,7 +3,7 @@
 #如何用Zmodem配合SecureCRT上传下载文件（centos 5.9 64）?
 
 Zmodem是SecureCRT支持比较好的一种古老的上传下载协议。<br>
-不过这个工具需要下载安装套件的名字叫llrzsz
+不过这个工具需要下载安装套件的名字叫lrzsz
 
 操作步骤如下：<br>
 在服务器上安装<br>
