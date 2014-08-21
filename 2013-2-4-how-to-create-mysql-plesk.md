@@ -31,3 +31,10 @@
 *  6.输入数据库用户名称及密码，点击确定，完成
 
 ![](http://ww3.sinaimg.cn/large/a74eed94jw1e1hgosllc9j.jpg)
+
+* 7.点击webadmin管理页面进入到数据库管理界面添加数据库。
+**如果您使用的是mssql数据库，您需要先对您的域名添加一条指向到所在虚拟空间IP的A记录：mssql.您的域名.com 。解析生效后才能使用webadmin功能。**
+
+![](http://i1.51hosting.com/2014-08-21_15_21_mssql12.png)
+
+
