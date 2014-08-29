@@ -41,18 +41,11 @@
 ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9m0fosr5j.jpg)
 ![](http://ww4.sinaimg.cn/large/a74eed94jw1dz9mjb7iooj.jpg)
 
-* 2.几分钟之后，点击刷新，等云主机状态显示在线时，点击VNC
+* 2.几分钟之后，点击刷新，等云主机状态显示在线时，点击VNC可以观察安装进度
 
 ![](http://ww4.sinaimg.cn/large/a74ecc4cjw1dz9mltqiarj.jpg)
 
-* 3.在设置Windows页面点击下一步，选择接受许可条款，点击开始
-
-![](http://ww2.sinaimg.cn/large/a74eed94jw1dz9n5fzc8oj.jpg)
-![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9n6lsx0nj.jpg)
-
-* 4.首次登录需要设置新的用户名和密码，开始远程登录即可，系统重装完毕
-
-![](http://ww3.sinaimg.cn/large/a74ecc4cjw1dz9n82qxvgj.jpg)
+* 3.在系统重装期间，请不要再reboot云主机。 以免造成系统安装错误。
 
 ###重装Windows2003系统
 
@@ -61,19 +54,4 @@
 ![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9m0fosr5j.jpg)
 ![](http://ww4.sinaimg.cn/large/a74eed94jw1dz9mjb7iooj.jpg)
 
-###使用VNC登陆
-
-* 2.几分钟分钟之后，点击刷新等云主机状态显示在线时，点击VNC，进行远程登录
-
-![](http://ww4.sinaimg.cn/large/a74ecc4cjw1dz9mltqiarj.jpg)
-
-
-* 3.在如下页面中，点击我的电脑——属性——系统属性——远程，勾选启用这台计算机上的远程桌面并应用，重装系统完成。
-
-![](http://ww4.sinaimg.cn/large/a74eed94jw1dz9ne07hlxj.jpg)
-
-###修改密码
-
-* 4.开启远程桌面后，请修改默认密码提高服务器的安全性。
-
-![](http://ww4.sinaimg.cn/large/a74e55b4jw1dz9nfnw8xzj.jpg)
+* 2.在系统重装期间，请不要再reboot云主机。 以免造成系统安装错误。 数分钟后等待系统安装完毕。
