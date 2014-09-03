@@ -20,4 +20,6 @@
 
 ![](http://i1.51hosting.com/2014-09-03_11_55_qqemail4.png)
 
+* 5.之后再测试看是否可以正常收到邮件
+
 **文章方法具体引用QQ官网: http://support.qq.com/cgi-bin/content_new?tid=13448313829565870&num=10&order=0&fid=350&dispn=1&start=0&pn=1&gb=0**
