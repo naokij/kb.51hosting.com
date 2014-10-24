@@ -1,7 +1,7 @@
 <!-- --- tag: faq 网络 网速 延迟 掉包 mtr -->
 <!-- --- title: 如何分析WinMTR/MTR的报告结果? -->
 
-# 分析WinMTR/MTR报告
+# 如何分析WinMTR/MTR的报告结果?
 
 ## 验证数据包丢失
 
