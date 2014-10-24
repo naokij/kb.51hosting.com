@@ -7,9 +7,9 @@
 ##WinMTR/MTR
 WinMTR/MTR这款工具是非常有用的工具，反应当时主机网络的延迟，跳点，丢包等情况。
 
-我们重点关心的是数据包在我们线路上的情况，如果你一直认为网速慢和我们有关，请使用该工具提取数据报表附于工单提交向我们反应，我们工程师来分析是否在可控范围内作出优化线路等调整。
+我们重点关心的是数据包在我们线路上的情况，如果你一直认为网速慢和我们有关，请使用该工具提取数据报表附于工单提交向我们反应，我们工程师来分析是否在可控范围内作出优化线路等调整。下面给大家介绍一下Windows下如何安装和使用WinMTR/MTR工具。
 
-[下载WinMTR](http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwinmtr%2Ffiles%2F&ts=1353040732&use_mirror=jaist)
+[下载WinMTR/MTR](http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwinmtr%2Ffiles%2F&ts=1353040732&use_mirror=jaist)
 
 
 ### 使用方法
@@ -61,10 +61,4 @@ Worst：回应时间的最大值
 
 Last：最后一个数据包的回应时间
 
-##### 分析WINMTR/MTR报告
 
-验证数据包丢失
-
-在分析WINMTR/MTR输出结果时，您需要查看两件事情：丢包和延迟。首先，我们来讨论丢包。如果您在任何一个节点看到有掉包，这可能表示这个特定的路由节点有问题。然而，有些服务提供商会限制WINMTR/MTR工具发送的ICMP传输。这会对数据包丢失造成错觉，但事实上并未丢包。要确认您看到的数据包丢失是否是由于服务提供商限制造成的，您可以查看随后的一跳路由节点。如果该跳显示丢失0%，那么您可以肯定
-是ICMP限制，实际未丢包。
-看下面的例子：
