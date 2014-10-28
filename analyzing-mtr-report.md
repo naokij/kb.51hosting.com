@@ -1,4 +1,4 @@
-<!-- --- tag: faq 网络 网速 延迟 掉包 mtr -->
+<!-- --- tag: faq 网络 网速 延迟 掉包 mtr 云主机 -->
 <!-- --- title: 如何分析WinMTR/MTR的报告结果? -->
 
 # 如何分析WinMTR/MTR的报告结果?
