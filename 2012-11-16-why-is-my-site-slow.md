@@ -61,6 +61,6 @@ Worst：回应时间的最大值
 
 Last：最后一个数据包的回应时间
 
-不同的网络情况，MTR都会返回不同的结果。您需要对MTR结果做一个正确的分析。请阅读![如何分析WinMTR/MTR的报告结果? ](http://kb.51hosting.com/analyzing-mtr-report)
+不同的网络情况，MTR都会返回不同的结果。您需要对MTR结果做一个正确的分析。请阅读[如何分析WinMTR/MTR的报告结果? ](http://kb.51hosting.com/analyzing-mtr-report)
 
 
