@@ -3,7 +3,7 @@
 
 # 如何分析WinMTR/MTR的报告结果?
 
-如果您第一次使用WinMTR/MTR或者您还没有下载WinMTR/MTR工具，请先点击[如何用WinMTR分析/排查网络延迟与掉包](http://kb.51hosting.com/2012-11-16-why-is-my-site-slow) 了解并且下载Windows版本。
+如果您第一次使用WinMTR/MTR或者您还没有下载WinMTR/MTR工具，请先点击[如何用WinMTR分析/排查网络延迟与掉包](http://kb.51hosting.com/2012-11-16-why-is-my-site-slow) 了解WinMTR。 或直接点击[下载WinMTR/MTR](http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwinmtr%2Ffiles%2F&ts=1353040732&use_mirror=jaist)
 
 ## 验证数据包丢失
 
