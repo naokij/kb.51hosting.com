@@ -11,11 +11,11 @@ WinMTR/MTR这款工具是非常有用的工具，反应当时主机网络的延�
 
 ##安装WinMTR/MTR 
 
-Windows系统
+###Windows系统
 
 [下载WinMTR/MTR](http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwinmtr%2Ffiles%2F&ts=1353040732&use_mirror=jaist)
 
-Debian和Ubuntu系统
+###Debian和Ubuntu系统
 
 确认所需安装包已经安装，随后安装WinMTR/MTR
 
@@ -23,7 +23,7 @@ Debian和Ubuntu系统
 2. apt-get upgrade
 3. apt-get install mtr-tiny
 
-CentOS和Fedora系统
+### CentOS和Fedora系统
 
 确认所需安装包已经安装，随后安装WinMTR/MTR
 
