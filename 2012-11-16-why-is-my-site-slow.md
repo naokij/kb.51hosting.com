@@ -7,10 +7,28 @@
 ##WinMTR/MTR
 WinMTR/MTR这款工具是非常有用的工具，反应当时主机网络的延迟，跳点，丢包等情况。
 
-我们重点关心的是数据包在我们线路上的情况，如果你一直认为网速慢和我们有关，请使用该工具提取数据报表附于工单提交向我们反应，我们工程师来分析是否在可控范围内作出优化线路等调整。下面给大家介绍一下Windows下如何安装和使用WinMTR/MTR工具。
+我们重点关心的是数据包在我们线路上的情况，如果你一直认为网速慢和我们有关，请使用该工具提取数据报表附于工单提交向我们反应，我们工程师来分析是否在可控范围内作出优化线路等调整。
+
+##安装WinMTR/MTR 
+
+Windows系统
 
 [下载WinMTR/MTR](http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fwinmtr%2Ffiles%2F&ts=1353040732&use_mirror=jaist)
 
+Debian和Ubuntu系统
+
+确认所需安装包已经安装，随后安装WinMTR/MTR
+
+1. apt-get update
+2. apt-get upgrade
+3. apt-get install mtr-tiny
+
+CentOS和Fedora系统
+
+确认所需安装包已经安装，随后安装WinMTR/MTR
+
+1. yum update
+2. yum install mtr
 
 ### 使用方法
 1. 解压文件
