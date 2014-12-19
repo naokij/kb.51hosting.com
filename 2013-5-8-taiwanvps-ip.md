@@ -5,8 +5,10 @@
 
 当您选购我们的台湾云主机时，如果您使用IP查询工具查询IP所属地。您可能会发现IP所属地显示是在美国。这是因为您使用的查询工具的资料库不是最新的。
 
-您可以在[maxmind](http://www.maxmind.com/zh/home)或者[ARIN](http://whois.arin.net/rest/net/NET-199-101-117-0-1/pft) 
+您可以在网站[maxmind](http://www.maxmind.com/zh/home)或者[ARIN](http://whois.arin.net/rest/net/NET-199-101-117-0-1/pft) 
 查询实际台湾云主机的IP所属地是在台湾。
+
+您也可以在网站[iplocation](http://www.iplocation.net/)通过查看不同的IP数据库确认最新的IP归属地址。
 
 您也可以通过tracroute推测到服务器实际是在台湾机房。这在实际使用过程中并不会造成影响。如果您在使用中由于IP所属地导致无法访问某些网站或内容，请联系我们具体是哪些网站或内容。 我们会主动联系他们以更新他们的数据库。
  
