@@ -1,22 +1,22 @@
 <!-- --- tag: LNMP centos上手 linux 云主机 -->
-<!-- --- title: NLMP平台下重置Mysql密码 -->
-#NLMP平台下重置Mysql密码
+<!-- --- title: LNMP平台下重置Mysql密码 -->
+#LNMP平台下重置Mysql密码
 
-有的时候装好lnmp后，会忘记mysql密码，这时候就要通过修改mysql的配置文件，来跨过数据库的密码验证来实现mysql密码的重置，具体步骤如下
+有的时候装好LNMP后，会忘记Mysql密码，这时候就要通过修改Mysql的配置文件，来跨过数据库的密码验证来实现Mysql密码的重置，具体步骤如下
 
 ##1.先确认LNMP的工作状态：
 
     /root/lnmp status
 
-如果lnmp正在运行，则先将其关闭
+如果LNMP正在运行，则先将其关闭
 
 ##2.关闭LNMP平台
 
     /root/lnmp stop
-##3.修改mysql配置文件
+##3.修改Mysql配置文件
 
     vi /etc/my.cnf
-在[mysqld]的段中加上一句：skip-grant-tables
+在[Mysqld]的段中加上一句：skip-grant-tables
 
 ##4.启动LNMP平台
 
