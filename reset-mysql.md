@@ -1,3 +1,3 @@
 <!-- --- tag: LNMP centos上手 linux -->
-<!-- --- title: LNMP一键安装包 -->
+<!-- --- title: 重置Mysql -->
 #LNMP一键安装包
