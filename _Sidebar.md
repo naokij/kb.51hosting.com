@@ -13,6 +13,7 @@
   * [独立服务器](/tag/独立服务器)
   * [Plesk虚拟主机](/tag/plesk)
   * [cPanel虚拟主机](/tag/cpanel)
+  * [域名注册](/tag/domain)
 * [网络问题](/tag/网络)
 * [政策与规范](/tag/政策)
   * [推介计划](/tag/推介计划)
