@@ -28,4 +28,4 @@
 
 7.添加主机域名解析，选择类型就可以了。
 
-![7](http://i2.minus.com/iSXVDCay3PmzU.png)
+![7](http://i2.minus.com/i5OesBPRhGNiA.png)
