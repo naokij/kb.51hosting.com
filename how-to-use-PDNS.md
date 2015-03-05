@@ -2,6 +2,8 @@
 <!-- --- title: 如何在客户中心使用DNS解析服务(10域名) -->
 #如何在客户中心使用DNS解析服务(10域名)
 
+当您在我们网站订购免费的DNS解析服务(10域名)后， 您首先在您域名注册商那里把NameServer修改成ns3.emagineconcept.com和ns4.emagineconcept.com 。 然后您就可以在我们客户中心进行DNS解析了。 
+
 1.登录到客户中心，查看域名，点击我的DNS解析。
   
 ![1](http://i1.minus.com/iFbGL3XKWoJW5.png)
