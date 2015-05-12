@@ -14,4 +14,5 @@
 ![](http://service.mail.qq.com/images/faq/%7B6F599719-2087-411E-8710-4DCBD3ADB639%7D.tmp)
 2.输入我们的域名，“51hosting.com”，然后点击“添加到白名单”按钮，即可
  ![](http://service.mail.qq.com/images/faq/%7BD6108BA4-FA2B-4F81-B7AF-DD069A93F41F%7D.tmp)
+
 方法具体引用QQ官网: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=16&&no=113
