@@ -30,6 +30,7 @@ Java官方網站提供7版本: https://java.com/zh_TW/download/manual_java7.jsp
 ![](http://content.screencast.com/users/billese10/folders/Jing/media/1cbe9c65-14d3-4a4d-8591-65ba8eddecec/007.jpg)
 
 圖(1)
+
 ![](http://content.screencast.com/users/billese10/folders/Jing/media/1d4e0a59-162a-4c0a-8030-d8fd0ed3ea6c/2015-05-19_1018.png)
 
 (圖2)
