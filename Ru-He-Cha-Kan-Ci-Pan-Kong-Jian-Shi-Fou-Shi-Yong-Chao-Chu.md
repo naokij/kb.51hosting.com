@@ -7,4 +7,4 @@
 
 *    1.点击常用
 
-![](file:///C:/Users/jo/Desktop/1.png)
+![](http://chuantu.biz/t2/17/1446030122x-1566679826.png)
