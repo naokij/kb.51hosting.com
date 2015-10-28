@@ -7,8 +7,4 @@
 
 *    1.点击常用
 
-![](http://ww3.sinaimg.cn/large/a74eed94jw1dzctwcxgsnj.jpg)
-
-*    3.输入用户名及重新设置的密码，点击确定即可。
-
-![](http://ww2.sinaimg.cn/large/a74e55b4jw1dzctybmxhuj.jpg)
+![](file:///C:/Users/jo/Desktop/1.png)
