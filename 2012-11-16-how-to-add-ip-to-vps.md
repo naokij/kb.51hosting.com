@@ -22,7 +22,7 @@
 ![升级降级选项](http://ww4.sinaimg.cn/large/a74e55b4jw1dywz1lk6i5j.jpg)
 
 
-*  IP栏 下拉框选择 "增加一个IP地址 ￥7RMB/月",或者"不增加IP地址" 然后点继续
+*  IP栏 下拉框选择 "增加一个IP地址 ￥15RMB/月",或者"不增加IP地址" 然后点继续
 
 ![添加ip](http://voga.emagineconcept.com/caicai/knowledgebase/addIP0.jpg)
 
